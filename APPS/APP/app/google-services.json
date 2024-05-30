@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "892796647130",
+    "firebase_url": "https://appcarparking-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "appcarparking",
+    "storage_bucket": "appcarparking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892796647130:android:860aff6892c1adaa17d7e3",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp4DmMa6LsNcUzG6rTeh5b1JpF0V9_eac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

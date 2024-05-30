@@ -1,0 +1,30 @@
+{
+  "KHACH_HANG": {
+    "CCCD": "cccd1",
+    "HO_TEN": "Nguyễn Văn A",
+    "SDT": "0123456789",
+    "EMAIL": "example@gmail.com"
+  },
+  "TAI_KHOAN": {
+    "TEN_DN": "username1",
+    "MAT_KHAU": "password123",
+    "CCCD": "cccd1"
+  },
+  "XE": {
+    "BIEN_SO": "12345",
+    "MAU_XE": "Đỏ"
+  },
+  "CHO_DO": {
+    "MA_CHO": "cho1",
+    "TRANG_THAI": "Trống"
+  },
+  "VE": {
+    "MA_VE": "ve1",
+    "GIO_RA": "2024-05-27 10:00:00",
+    "GIO_VAO": "2024-05-27 09:00:00",
+    "TONG_TIEN": 100000,
+    "BIEN_SO": "12345",
+    "CCCD": "cccd1",
+    "MA_CHO": "cho1"
+  }
+}
